@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chujie Gao11"
-description              : "A sophomore majoring in software engineering at Sichuan University"
+title                    : "Chujie Gao's Personal Website"
+description              : "A sophomore majoring in software engineering at SCU"
 repository               : "Flossiee/Flossiee.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Flossiee"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
