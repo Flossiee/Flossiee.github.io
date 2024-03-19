@@ -17,10 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+Hello, I’m Chujie Gao (高楚劼), an undergraduate student at <a href='https://www.scu.edu.cn/'>Sichuan University</a>. I’m currently in my second year of undergraduate studies.
 
+At present, I'm honored to be a visiting student at the LAIR Lab, <a href = 'https://www2.lehigh.edu/'>Lehigh University</a>, where I work under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>.
 
 # 🔥 News
-- *2024.02*: &nbsp;🎉🎉 Our new paper has been accepted by NAACL 2024! Congratulations to [Qihui](https://mask-hui.github.io/), [Dongping](https://dongping-chen.github.io/) and [Yue](https://howiehwong.github.io/)!
+- *2024.03*: &nbsp;🎉🎉 Our new paper has been accepted by NAACL 2024! Congratulations to [Qihui](https://mask-hui.github.io/), [Dongping](https://dongping-chen.github.io/) and [Yue](https://howiehwong.github.io/)!
+- *2024.01*: &nbsp;🎉🎉 Our new paper has been accepted by Genomics, Proteomics & Bioinformatics! 
 
 # 📝 Publications 
 
