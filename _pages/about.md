@@ -43,6 +43,7 @@ Qihui Zhang \*, **Chujie Gao** \*, Dongping Chen \*, Yue Huang, Yao Wan, Lichao 
 [TrustLLM: Trustworthiness in Large Language Models](https://arxiv.org/pdf/2401.05561.pdf)
 
 Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, Qihui Zhang \*, **Chujie Gao** \*, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al. (*: major contribution)
+
 [**Toolkit & Code**](https://github.com/HowieHwong/TrustLLM) | [**Website**](https://trustllmbenchmark.github.io/TrustLLM-Website/)
 </div>
 </div>
