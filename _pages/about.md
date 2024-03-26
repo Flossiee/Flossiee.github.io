@@ -43,6 +43,7 @@ Qihui Zhang \*, **Chujie Gao** \*, Dongping Chen \*, Yue Huang, Yao Wan, Lichao 
 [TrustLLM: Trustworthiness in Large Language Models](https://arxiv.org/pdf/2401.05561.pdf)
 
 Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, Qihui Zhang \*, **Chujie Gao** \*, Yixin Huang, Wenhan Lyu, Yixuan Zhang, Xiner Li, Zhengliang Liu, Yixin Liu, Yijue Wang, Zhikun Zhang, Bhavya Kailkhura, Caiming Xiong, et al. (*: major contribution)
+[**Toolkit & Code**](https://github.com/HowieHwong/TrustLLM) | [**Website**](https://trustllmbenchmark.github.io/TrustLLM-Website/)
 </div>
 </div>
 
@@ -60,4 +61,4 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, Qihui Zhang \*, **Chu
 - *2021.06 - 2026.06(expected)*, BEng., Software Engineering, Sichuan University.
 
 # 💻 Internships
-- *2023.10 - now* AI research intern in LAIR Lab, Lehigh University, working under the guidance of Prof. Lichao Sun.
+- *2023.10 - (now)*, AI research intern in LAIR Lab, Lehigh University, working under the guidance of Prof. Lichao Sun.
