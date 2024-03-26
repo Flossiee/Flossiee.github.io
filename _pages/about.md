@@ -27,7 +27,7 @@ At present, I'm honored to be a visiting student at the LAIR Lab, <a href = 'htt
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NAACL 2024</div><img src='images/MixSet_generation' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLM-as-a-Coauthor: Can Mixed Human-Written and Machine-Generated Text Be Detected?](https://arxiv.org/pdf/2401.05952.pdf)
