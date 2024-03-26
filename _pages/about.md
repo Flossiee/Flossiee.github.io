@@ -35,6 +35,9 @@ Qihui Zhang \*, **Chujie Gao** \*, Dongping Chen \*, Yue Huang, Yao Wan, Lichao 
 
 [**Dataset & Code**]([https://github.com/HowieHwong/TrustLLM](https://github.com/Dongping-Chen/MixSet))
 </div>
+</div></div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/trustllm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TrustLLM: Trustworthiness in Large Language Models](https://arxiv.org/pdf/2401.05561.pdf)
