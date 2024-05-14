@@ -22,6 +22,7 @@ Hello, I’m Chujie Gao (高楚劼), an undergraduate student at <a href='https:
 At present, I'm honored to be a visiting student at the LAIR Lab, <a href = 'https://www2.lehigh.edu/'>Lehigh University</a>, where I work under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>.
 
 # 🔥 News
+- *2024.05*: &nbsp;🎉🎉 TrustLLM has been accepted by ICML 2024!
 - *2024.03*: &nbsp;🎉🎉 Our new paper has been accepted by NAACL 2024! Congratulations to [Qihui](https://mask-hui.github.io/), [Dongping](https://dongping-chen.github.io/) and [Yue](https://howiehwong.github.io/)!
 - *2024.01*: &nbsp;🎉🎉 Our new paper has been accepted by Genomics, Proteomics & Bioinformatics! 
 
@@ -37,7 +38,7 @@ Qihui Zhang \*, **Chujie Gao** \*, Dongping Chen \*, Yue Huang, Yao Wan, Lichao 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/trustllm.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/trustllm.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TrustLLM: Trustworthiness in Large Language Models](https://arxiv.org/pdf/2401.05561.pdf)
