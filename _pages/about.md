@@ -61,14 +61,18 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, Qihui Zhang \*, **Chu
 </div>
 </div>
 
-<!-- 
+![NeurIPSW 2024](https://img.shields.io/badge/NeurIPSW-2024-c7be87) [UniGen: A Unified Framework for Textual Dataset Generation Using Large Language Models](https://arxiv.org/abs/2406.18966) Yue Huang \*, Siyuan Wu \*, **Chujie Gao**, Dongping Chen, Qihui Zhang, Yao Wan†, Tianyi Zhou, Xiangliang Zhang, Jianfeng Gao, Chaowei Xiao, Lichao Sun
+
+![NeurIPSW 2024](https://img.shields.io/badge/NeurIPSW-2024-blue) [GUI-World: A Dataset for GUI-oriented Multimodal LLM-based Agents](https://arxiv.org/pdf/2406.10819) Dongping Chen \*, Yue Huang \*, Siyuan Wu, Jingyu Tang, Liuyi Chen, Yilin Bai, Zhigang He, Chenlong Wang, Huichi Zhou, Yiqiang Li, Tianshuo Zhou, Yue Yu, **Chujie Gao**, Qihui Zhang, Yi Gui, Zhen Li, Yao Wan†, Pan Zhou†, Jianfeng Gao, Lichao Sun
+<!--  
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div>
 -->
-# 📝 Other preprints
-- 
+
+<!-- # 📝 Other preprints-->
+
 
 # 🎖 Honors and Awards
 - *2023.10* National Scholarship
