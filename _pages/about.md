@@ -28,7 +28,7 @@ At present, I'm honored to be a visiting student at the LAIR Lab, <a href = 'htt
 - *2024.01*: &nbsp;🎉🎉 Our new paper has been accepted by Genomics, Proteomics & Bioinformatics! 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/HonestLLM.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/HonestLLM_00.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [HonestLLM: Toward an Honest and Helpful Large Language Model](https://arxiv.org/pdf/2406.00380)
