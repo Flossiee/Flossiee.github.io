@@ -80,9 +80,11 @@ Yue Huang \*, Lichao Sun \*, Haoran Wang \*, Siyuan Wu \*, Qihui Zhang \*, **Chu
 - *2023.10* National Scholarship
 - *2024.10* National Scholarship
 - Undergraduate Honours Bachelor's Degree
+  
 <!-- 
 # 📖 Educations
 - *2021.06 - 2026.06(expected)*, BEng., Software Engineering, Sichuan University.
 -->
+
 # 💻 Internships
 - *2023.10 - (now)*, AI research intern in LAIR Lab, Lehigh University, working under the guidance of Prof. Lichao Sun.
