@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I’m Chujie Gao (高楚劼), a visiting student at MBZUAI. I’m currently in my third year of undergraduate studies.
+Hello, I’m Chujie Gao (高楚劼), a visiting student at the University of Notre Dame. I’m currently in my third year of undergraduate studies.
 
-At present, I'm honored to be a visiting student at the LAIR Lab, <a href = 'https://www2.lehigh.edu/'>Lehigh University</a>, where I work under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>.
+<!-- At present, I'm honored to be a visiting student at the LAIR Lab, <a href = 'https://www2.lehigh.edu/'>Lehigh University</a>, where I work under the guidance of <a href = 'https://lichao-sun.github.io/'>Prof. Lichao Sun</a>.-->
 
 # 🔥 News
 - *2024.09*: &nbsp;🎉🎉 HonestLLM has been accepted by NeurIPS 2024! Congratulations to [Siyuan](https://siyuan-5.github.io/), [Yue](https://howiehwong.github.io/), [Dongping](https://dongping-chen.github.io/) and [Qihui](https://mask-hui.github.io/)!
